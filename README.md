@@ -20,3 +20,4 @@ Discord: https://discord.gg/Y8BX3Bptau
 ![VBA](https://img.shields.io/badge/%F0%9F%96%89-Visual+Basic-blue)
 ![C](https://img.shields.io/badge/C-C%2FC%2B%2B-blue)
 ![AutoHotKey](https://img.shields.io/badge/A-AutoHotKey-green)
+![Shell](https://img.shields.io/badge/%3E-Shell-lightgrey)
