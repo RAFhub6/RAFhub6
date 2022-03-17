@@ -21,3 +21,4 @@ Discord: https://discord.gg/Y8BX3Bptau
 ![C](https://img.shields.io/badge/C-C%2FC%2B%2B-blue)
 ![AutoHotKey](https://img.shields.io/badge/A-AutoHotKey-green)
 ![Shell](https://img.shields.io/badge/%3E-Shell-lightgrey)
+![Batchfile](https://img.shields.io/badge/%3E-Batchfile-lightgrey)
