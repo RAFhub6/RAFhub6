@@ -1,14 +1,20 @@
 # RAFhub6
 <img src="https://komarev.com/ghpvc/?username=RAFhub6">
-<img src="https://github-readme-stats.vercel.app/api/?username=RAFhub6&title_color=009082&text_color=005672&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00fff2&hide_title=false&count_private=true&hide=stars" />
-<a href="https://rafhub6.github.io">Site</a>
+<br />
+<img src="https://github-readme-stats.vercel.app/api/?username=RAFhub6&title_color=009082&text_color=005672&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00fff2&hide_title=false&count_private=true&hide=stars" /> <br />
 
 
-### Contact
-Discord: https://discord.gg/Y8BX3Bptau
+## Projects
+
+<a href="https://rafhub6.github.io">Site</a><br />
+<a href="https://leightoncity.myftp.biz">Actual site</a>
 
 
-### Programming
+## Contact
+<a href='https://discord.gg/Y8BX3Bptau'>syntax#7311</a>
+
+
+## Programming
 ![SQL](https://img.shields.io/badge/%E2%9D%8D-SQL-blue)
 ![PHP](https://img.shields.io/badge/%E2%A5%88-PHP-lightgrey)
 ![HTML](https://img.shields.io/badge/%F0%9F%9B%A1-HTML-orange)
@@ -22,3 +28,6 @@ Discord: https://discord.gg/Y8BX3Bptau
 ![AutoHotKey](https://img.shields.io/badge/A-AutoHotKey-green)
 ![Shell](https://img.shields.io/badge/%3E-Shell-lightgrey)
 ![Batchfile](https://img.shields.io/badge/%3E-Batchfile-lightgrey)
+![Assembly](https://img.shields.io/badge/%3E-Assembly-red)
+![.NET](https://img.shields.io/badge/[]-.NET-blue)
+![Power Automate](https://img.shields.io/badge/%3E-Power+Automate-blue)
